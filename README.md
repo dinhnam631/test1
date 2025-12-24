@@ -82,3 +82,10 @@
 ### 3. Danh sách thư viện sử dụng
 - axios: Thực hiện các HTTP request đến API của Jotform và Bitrix24.
 - dotenv: Quản lý các thông tin bảo mật qua biến môi trường.
+
+## V. Test
+- Điền thông tin vào form https://form.jotform.com/253501318018044
+ <img width="843" height="856" alt="{293ABB36-41C6-445F-BE31-D9230976F55F}" src="https://github.com/user-attachments/assets/6ff601a8-dbea-4f4a-978c-9c2becfc466d" />\
+- Vào Bitrix24 chọn CRM -> Customers -> Contacts sẽ thấy thông tin được thêm thành công như ảnh:
+ <img width="1889" height="899" alt="{A9E7DCED-A40D-43B3-9A4F-C8C8AC2F7D25}" src="https://github.com/user-attachments/assets/61e03fa8-b03d-4eba-8fa7-f8fdde8abcbc" />
+
